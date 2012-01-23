@@ -1,0 +1,5 @@
+require "version"
+require "formtastic"
+require "jsonmodel"
+require "jsonmodel/formtastic_compatibility"
+require "formtastic/inputs/string_array_input"
